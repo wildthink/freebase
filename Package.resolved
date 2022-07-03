@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "keyvaluecoding",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ikhvorost/KeyValueCoding.git",
+      "state" : {
+        "revision" : "69640864f3f3f6f8e0c8e6421e0ad53074c2c54f",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "runtime",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wildthink/Runtime.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "8b5b5e680d0a417e473b01864dffaecc0740beea"
+      }
+    },
+    {
+      "identity" : "swift-snapshot-testing",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-snapshot-testing.git",
+      "state" : {
+        "revision" : "f8a9c997c3c1dab4e216a8ec9014e23144cbab37",
+        "version" : "1.9.0"
+      }
+    },
+    {
+      "identity" : "uniqueid",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wildthink/uniqueid",
+      "state" : {
+        "revision" : "85719620b1857bcff2ab748194bd69148613dca5",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
